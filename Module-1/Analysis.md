@@ -1,4 +1,4 @@
-Module 1 Analysis – Introduction to Programming in Kotlin
+Module 1 Analysis - Introduction to Programming in Kotlin
 
 I completed the Introduction to Programming in Kotlin pathway. In this module, I learned the basic concepts of Kotlin programming by working with simple programs, variables, and functions. I also completed the practice problems and the quiz.
 
