@@ -1,1 +1,1 @@
-
+this module was really challenging to me that at some point I didn't even want to practice anymore. the practices was too many, it was so tiring to finish it. but thanks to it I'm now more confident in Kotlin language. I learned a lot in this module. 
